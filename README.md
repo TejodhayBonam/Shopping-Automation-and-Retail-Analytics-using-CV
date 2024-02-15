@@ -42,5 +42,4 @@ continuously monitored with the help of object detection and pose estimation alg
 
 **Results:** Accuracy for customer actions: 76.979%.
 
-## Fun Video
-Youtube: https://www.youtube.com/watch?v=sIdVjU_iGqA
+
