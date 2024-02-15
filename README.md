@@ -30,7 +30,7 @@ continuously monitored with the help of object detection and pose estimation alg
 - Face recognition
 - Real-time Human Detection in Computer Vision.
 
-**Results:** Check the Final Report.
+**Results:** 
 
 ###  Activity Recognition
 **Research:** 
